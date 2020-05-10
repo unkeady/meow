@@ -14,7 +14,7 @@ int main() {
 	
 
 	float pi = 3.14;
-	printf("%8.4f", pi); //8 karakterlik yer kapla 4 karakter ondalık sayıdan sonrasını basar.
+	printf("%8.4f", pi); //8 karakterlik yer kaplar 4 karakter ondalık sayıdan sonrasını basar.
 
   int a = 10;
 	printf("%d", a);
@@ -26,7 +26,7 @@ int main() {
   //  a<<2 dersek a = 2 olsun, 2'nin binary 0010'dır. 1, 2 birim sola kayar ve 100000 olur. 
   // a%b mod operatörü, kalanı verir.
   // a+=5 eşittir a=a+5
-  // printf("%d", (int)pi);  pi sayısını integere dönüştürür sonrasında bu değeri çıktı olarak verir.
+  // printf("%d", (int)pi);  pi sayısını inte dönüştürür sonrasında bu değeri çıktı olarak verir.
 	
 	/*
   if (2 < 3) 
