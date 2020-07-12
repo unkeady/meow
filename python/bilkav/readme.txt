@@ -1,0 +1,1 @@
+Bilgisayar kavramları youtube sayfasındaki pythonv3 derslerinin notları <3
