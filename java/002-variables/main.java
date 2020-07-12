@@ -1,3 +1,4 @@
+import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
 
 public class main
 {
@@ -37,7 +38,7 @@ public class main
         double e = 4d; //4ü double olarak alıyor
         double r = 4.23d;
 
-        float z = 5.0;
+        
 
 
 
